@@ -4,20 +4,35 @@
 https://www.kaggle.com/c/bkai-igh-neopolyp
 
 ----dataset
+
     |
+    
     --train
+    
       |
+      
       --train
+      
     --train_gt
+    
       |
+      
       --train_gt
+      
     |
+    
     --val
+    
       |
+      
       --val
+      
     --val_gt
+    
       |
+      
       --val_gt
+      
     --test
 
 ## 2. Dependences
@@ -28,6 +43,7 @@ opencv-python 4.1.2
 
 ## 3. Model
 HarDNet68: https://github.com/PingoLH/Pytorch-HarDNet
+
 HarDNetBlock:
 
 ![image](https://user-images.githubusercontent.com/71560376/145801983-d798da8d-ce89-4f62-a247-c2b2b4950abd.png)
