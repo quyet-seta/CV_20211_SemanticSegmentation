@@ -3,37 +3,22 @@
 ## 1. Dataset
 https://www.kaggle.com/c/bkai-igh-neopolyp
 
-----dataset
-
-    |
-    
-    --train
-    
-      |
-      
-      --train
-      
-    --train_gt
-    
-      |
-      
-      --train_gt
-      
-    |
-    
-    --val
-    
-      |
-      
-      --val
-      
-    --val_gt
-    
-      |
-      
-      --val_gt
-      
-    --test
+---- dataset
+     |
+     --train
+       | 
+       --train
+     --train_gt
+       |
+       --train_gt
+     |
+     --val
+       |
+       --val
+     --val_gt
+       |
+       --val_gt
+     --test
 
 ## 2. Dependences
 Pytorch 1.10.0
